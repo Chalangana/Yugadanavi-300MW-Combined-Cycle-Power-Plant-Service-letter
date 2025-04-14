@@ -1,4 +1,4 @@
-# Yugadanavi-300MW-Combined-Cycle-Power-Plant-Service-letter
+# Yugadanavi-300MW-Combined-Cycle-Power-Plant
 
 Service Letter
 
